@@ -601,9 +601,9 @@ MIT License - Feel free to use for commercial projects
 
 <div align="center">
 
-![Upload Interface](https://via.placeholder.com/850x450/2563eb/ffffff?text=📤+Drag+%26+Drop+Excel/CSV+Files)
+![Upload Interface](assets/screenshots/upload.png)
 
-*Intuitive upload interface with validation and progress tracking*
+*Intuitive upload interface with drag & drop, file validation, and email configuration*
 
 </div>
 
@@ -619,9 +619,9 @@ MIT License - Feel free to use for commercial projects
 
 <div align="center">
 
-![Progress Tracking](https://via.placeholder.com/850x450/16a34a/ffffff?text=⚡+Real-Time+Progress+Updates)
+![Progress Tracking](assets/screenshots/progress.png)
 
-*Live progress bar showing current processing stage*
+*Live progress bar showing real-time processing status and completion*
 
 </div>
 
@@ -638,9 +638,9 @@ MIT License - Feel free to use for commercial projects
 
 <div align="center">
 
-![Report Download](https://via.placeholder.com/850x450/0891b2/ffffff?text=📥+Download+CSV+%26+PDF+Reports)
+![Job Management](assets/screenshots/jobs.png)
 
-*One-click download for both CSV and PDF formats*
+*Job list view with status tracking, filtering, and one-click report downloads*
 
 </div>
 
@@ -654,13 +654,13 @@ MIT License - Feel free to use for commercial projects
 
 ---
 
-### Step 4: Monitor All Jobs
+### Step 4: Monitor System Performance
 
 <div align="center">
 
-![Job List](https://via.placeholder.com/850x450/7c3aed/ffffff?text=📊+Job+Management+Dashboard)
+![System Statistics](assets/screenshots/stats.png)
 
-*Track all processing jobs with status, progress, and quick actions*
+*Real-time system statistics dashboard showing job metrics and success rates*
 
 </div>
 

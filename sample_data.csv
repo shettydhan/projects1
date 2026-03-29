@@ -1,0 +1,14 @@
+Name,Age,Email,Salary,Department,Date,City
+John Doe,30,john@example.com,50000,Engineering,2024-01-15,New York
+Jane Smith,25,jane@example.com,60000,Marketing,2024-02-20,Los Angeles
+Bob Wilson,  35  ,bob@example.com,55000,Sales,2024-03-10,Chicago
+John Doe,30,john@example.com,50000,Engineering,2024-01-15,New York
+Alice Brown,28,alice@example.com,52000,Engineering,2024-01-20,Boston
+,,,,,,
+Charlie Davis,32,charlie@example.com,58000,Marketing,2024-02-15,Miami
+Diana Evans,29,diana@example.com,54000,Sales,2024-03-05,Seattle
+Frank Garcia,  40  ,frank@example.com,65000,Engineering,2024-01-25,Austin
+Grace Harris,26,grace@example.com,51000,Marketing,2024-02-18,Denver
+Henry Jackson,  31,henry@example.com,56000,Sales,2024-03-12,Portland
+Ivy King,27,ivy@example.com,53000,Engineering,2024-01-22,Phoenix
+Jack Lee,33,jack@example.com,59000,Marketing,2024-02-25,Atlanta

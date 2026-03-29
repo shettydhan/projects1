@@ -1,0 +1,34 @@
+workflow-automation-dashboard/
+├── backend/
+│   ├── __init__.py
+│   ├── main.py              # FastAPI application
+│   ├── models.py            # Database models
+│   ├── schemas.py           # Pydantic schemas
+│   ├── database.py          # Database setup
+│   └── config.py            # Configuration
+├── services/
+│   ├── __init__.py
+│   ├── data_processor.py    # Data cleaning & processing
+│   ├── report_generator.py  # PDF/CSV generation
+│   └── email_service.py     # Email automation
+├── workers/
+│   ├── __init__.py
+│   ├── celery_app.py        # Celery configuration
+│   └── tasks.py             # Background tasks
+├── dashboard/
+│   ├── __init__.py
+│   └── app.py               # Streamlit dashboard
+├── storage/
+│   ├── uploads/             # Uploaded files
+│   ├── reports/             # Generated reports
+│   └── temp/                # Temporary files
+├── tests/
+│   ├── __init__.py
+│   ├── test_api.py
+│   └── test_processor.py
+├── .env.example             # Example environment variables
+├── .gitignore
+├── requirements.txt         # Python dependencies
+├── Dockerfile
+├── docker-compose.yml
+└── README.md
